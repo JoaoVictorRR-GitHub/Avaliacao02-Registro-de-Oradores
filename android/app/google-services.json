@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663509417672",
+    "project_id": "registro-oradores",
+    "storage_bucket": "registro-oradores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663509417672:android:c8caedd839ca7264086ffd",
+        "android_client_info": {
+          "package_name": "com.example.avaliacao_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJIsras9F_ujKcxY3mmYWAfEiWonIG4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663509417672:android:cd27bb39b9fc955c086ffd",
+        "android_client_info": {
+          "package_name": "com.example.registro_de_oradores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJIsras9F_ujKcxY3mmYWAfEiWonIG4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
