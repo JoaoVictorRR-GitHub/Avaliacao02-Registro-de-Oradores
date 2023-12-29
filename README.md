@@ -8,8 +8,7 @@
 
 ### | $\textcolor{Yellow}{\text{Detalhes:}}$
 > * [INSTRUÇÕES](/Avaliacao%2002%20-%20Flutter%20e%20Firebase.pdf)
-
-[//]: # (> * [RELATÓRIO]&#40;/Relatorio%20Avaliacao%2002.pdf&#41;)
-> * Relatório do projeto com screenchots e descrição das janelas e funcionalidades do aplicativo.
+> * [RELATÓRIO](/Relatorio%20Avaliacao%2002.pdf)
+> * Relatório da avaliação com screenchots e descrição das janelas e funcionalidades do aplicativo.
 
 ---
