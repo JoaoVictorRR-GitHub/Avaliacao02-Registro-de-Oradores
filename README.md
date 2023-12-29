@@ -6,9 +6,9 @@
 </p>
 
 
-### | $\textcolor{Yellow}{\text{Detalhes:}}$
-> * [INSTRUÇÕES](/Avaliacao%2002%20-%20Flutter%20e%20Firebase.pdf)
-> * [RELATÓRIO](/Relatorio%20Avaliacao%2002.pdf)
-> * Relatório da avaliação com screenchots e descrição das janelas e funcionalidades do aplicativo.
+### | $\textcolor{Yellow}{\text{DETALHES:}}$
+> * ![RELATÓRIO](/Relatorio%20Avaliacao%2002.pdf)
+> * ![INSTRUÇÕES](/Avaliacao%2002%20-%20Registro%20de%20Oradores.pdf)
+> * Relatório e instruções acerca do desenvolvimento do projeto da avaliação.
 
 ---
